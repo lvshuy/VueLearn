@@ -1,6 +1,7 @@
-# project01
+# 学生管理系统
 
 > A Vue.js project
+> 最简单的系统学习vue，认识其中的组件、绑定事件等。
 
 ## Build Setup
 
